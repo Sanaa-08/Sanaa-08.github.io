@@ -24,4 +24,3 @@
 
 ### [**MDN Web Docs**](https://developer.mozilla.org/en-US/) is an invaluable resource for developers, offering clear, accurate documentation and interactive examples for web technologies like HTML, CSS, and JavaScript, suitable for all skill levels.
 
-
